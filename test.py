@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
 """tests for hello.py"""
 
 import os
 from subprocess import getstatusoutput, getoutput
 
-prg = './hello.py'
+prg = 'hello.py'
 
 
 # --------------------------------------------------
